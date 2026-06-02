@@ -68,7 +68,7 @@ export default function Nav() {
               variant='ghost'
               as='a'
               target='_blank'
-              href='https://ibrahimkamagate472.github.io/IbrahimResume/Resume.html'
+              href='https://ibrahimkamagate472.github.io/ibrahim-resume/'
             >
               Resume
             </Button>
